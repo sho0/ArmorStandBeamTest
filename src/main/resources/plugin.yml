@@ -1,0 +1,5 @@
+name: ArmorStandBeamTest
+version: ${project.version}
+main: man10.red.armorstandbeamtest.ArmorStandBeamTest
+authors: [Sho0]
+description: ArmorStandBeamTest
